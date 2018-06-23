@@ -22,7 +22,7 @@ that includes a custom regenerator runtime and core-js.
 Don't forget to import `@babel/polyfill` in your main entry point like so:
 
 ```js
-import "@babel/polyfill"
+import "babel-polyfill"
 ```
 
 
